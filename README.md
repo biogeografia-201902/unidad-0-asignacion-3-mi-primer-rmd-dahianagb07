@@ -476,7 +476,9 @@ Tarea 4. Teje
 
 -   **Cuando estés listo/a, teje tu `.Rmd`. Generarás un `.md` nuevo, que contendrá los cambios que hayas hecho, incluyendo los resultados que produzca tu código.**
 
-> Como pone la Guía, "Debes estar pendiente a los errores...", porque si el código no se ejecuta correctamente, no se podrá generar el `.md`. Por ello es muy importante que, antes de tejer, hayas ejecutado tu código en la consola y comprobado que devuelve resultados sin errores. mmm
+> Como pone la Guía, "Debes estar pendiente a los errores...", porque si el código no se ejecuta correctamente, no se podrá generar el `.md`. Por ello es muy importante que, antes de tejer, hayas ejecutado tu código en la consola y comprobado que devuelve resultados sin errores.
+
+Se copio.
 
 Tarea final: *commit*&gt;*push*
 -------------------------------
