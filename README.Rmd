@@ -115,7 +115,7 @@ Si lograste ver en pantalla un `data.frame` con varias columnas y filas, consegu
 
 **Tus respuestas en este bloque de código:**
 ```{r}
-mite[30] #Debes colocar tu número asignado dentro del corchete donde corresponda.
+mite[30,] #Debes colocar tu número asignado dentro del corchete donde corresponda.
 ```
 
 * **Usando la misma guía, ¿cuántos individuos hay de la especie de la columna número 2 en la fila (sitio) que corresponde con tú número?**
